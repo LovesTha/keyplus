@@ -13,6 +13,10 @@ Currently in beta so lots of stuff still might change.
 
 [Latest builds on Keyplus CI](https://ci.keyplus.io/)
 
+# Community
+
+https://discord.gg/E5jSgM - Discord
+
 # Keyplus Flasher GUI
 
 ## Setup instructions
